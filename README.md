@@ -5,7 +5,7 @@
    <br/>
    <img src = "https://64.media.tumblr.com/61046013560ea9d0d6cd9bd689b29e95/6eefed59584eed6f-3c/s2048x3072/3d66bcd8a714d5a1497b448b8f4b8327024483ff.png">
        
- # Happy Grades Project Description (Our open source product) Sprint 2                                                                                                                                                            <img src="https://64.media.tumblr.com/3853ea6d47fc52f97220a47a6e28585e/961c33664aee0a62-fc/s75x75_c1/94d3dd484c75c52e006b6f8fa86e7c8b2feba5a5.png">
+ # Happy Grades Project Description (Our open source product)                                                                                                                                                          <img src="https://64.media.tumblr.com/3853ea6d47fc52f97220a47a6e28585e/961c33664aee0a62-fc/s75x75_c1/94d3dd484c75c52e006b6f8fa86e7c8b2feba5a5.png">
 
 
 The application represents a database management system developed with java. It is also provided with an appealing GUI to enable users of different roles professors, teacher assistants and students, to interact for educational purposes The functionalities offered by the system must satisfy the customer’s needs. Thus, we as a team will contribute harmonically until the final product gains the approval of our customer as we fulfil everything as required. 
@@ -129,10 +129,17 @@ Chanel ID = C02G1KMAT5M
 <br/><br>
 
 # Tools :
-<img src ="https://64.media.tumblr.com/0dd4e5ff0af699b7afc56b2def9ec4f4/d3fc414ca382a3b8-b3/s640x960/73d617e9f4b8b92eebf53436c4f7c58181349979.png">
+<img src ="https://64.media.tumblr.com/d2e30faf7522d432b2b08f97f6c46b9f/8591ef4c046c8d29-3d/s2048x3072/e459426f5bf5e811b7a89ed71bcb43d96adcaeaa.png">
 <br/><br>
 <br/><br>
 <br/><br>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ 
+ 
+ 
+ 
+ 
+ 
 <a href="https://twitter.com">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
