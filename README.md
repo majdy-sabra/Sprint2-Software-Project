@@ -1,9 +1,9 @@
 
 ![Web-developer](https://64.media.tumblr.com/0f4a5b11d0bca9814cc6ca07c6c98cb0/6c6029090ff55358-ea/s1280x1920/458543392eca1b8128c0fd56eb380e544384f116.png)
     
-# Welcome to My Repository <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Welcome to My Repository <img src="https://64.media.tumblr.com/d2e30faf7522d432b2b08f97f6c46b9f/8591ef4c046c8d29-3d/s2048x3072/e459426f5bf5e811b7a89ed71bcb43d96adcaeaa.png">
    <br/>
-   <img src = "https://64.media.tumblr.com/61046013560ea9d0d6cd9bd689b29e95/6eefed59584eed6f-3c/s2048x3072/3d66bcd8a714d5a1497b448b8f4b8327024483ff.png">
+   <img src = "">
        
  # Happy Grades Project Description (Our open source product)                                                                                                                                                          <img src="https://64.media.tumblr.com/3853ea6d47fc52f97220a47a6e28585e/961c33664aee0a62-fc/s75x75_c1/94d3dd484c75c52e006b6f8fa86e7c8b2feba5a5.png">
 
@@ -133,7 +133,7 @@ Chanel ID = C02G1KMAT5M
 <br/><br>
 <br/><br>
 <br/><br>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ <img src="https://64.media.tumblr.com/61046013560ea9d0d6cd9bd689b29e95/6eefed59584eed6f-3c/s2048x3072/3d66bcd8a714d5a1497b448b8f4b8327024483ff.png">
  
  
  
