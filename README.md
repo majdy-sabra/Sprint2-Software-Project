@@ -3,7 +3,7 @@
     
 # Welcome to My Repository <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
    <br/>
-   <img src = "https://64.media.tumblr.com/65608d9b68a63f5ae482e32568348b9d/47ea3d6e9c143c96-2e/s640x960/62e5d95557c8c29a96e7fdf52a66e3686df2ccad.png">
+   <img src = "https://64.media.tumblr.com/61046013560ea9d0d6cd9bd689b29e95/6eefed59584eed6f-3c/s2048x3072/3d66bcd8a714d5a1497b448b8f4b8327024483ff.png">
        
  # Happy Grades Project Description (Our open source product)                                                                                                                                                            <img src="https://64.media.tumblr.com/3853ea6d47fc52f97220a47a6e28585e/961c33664aee0a62-fc/s75x75_c1/94d3dd484c75c52e006b6f8fa86e7c8b2feba5a5.png">
 
