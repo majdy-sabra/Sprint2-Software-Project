@@ -5,7 +5,7 @@
    <br/>
    <img src = "https://64.media.tumblr.com/61046013560ea9d0d6cd9bd689b29e95/6eefed59584eed6f-3c/s2048x3072/3d66bcd8a714d5a1497b448b8f4b8327024483ff.png">
        
- # Happy Grades Project Description (Our open source product)                                                                                                                                                            <img src="https://64.media.tumblr.com/3853ea6d47fc52f97220a47a6e28585e/961c33664aee0a62-fc/s75x75_c1/94d3dd484c75c52e006b6f8fa86e7c8b2feba5a5.png">
+ # Happy Grades Project Description (Our open source product) Sprint 2                                                                                                                                                            <img src="https://64.media.tumblr.com/3853ea6d47fc52f97220a47a6e28585e/961c33664aee0a62-fc/s75x75_c1/94d3dd484c75c52e006b6f8fa86e7c8b2feba5a5.png">
 
 
 The application represents a database management system developed with java. It is also provided with an appealing GUI to enable users of different roles professors, teacher assistants and students, to interact for educational purposes The functionalities offered by the system must satisfy the customer’s needs. Thus, we as a team will contribute harmonically until the final product gains the approval of our customer as we fulfil everything as required. 
